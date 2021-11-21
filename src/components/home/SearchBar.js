@@ -5,7 +5,7 @@ import AntDesign from 'react-native-vector-icons/AntDesign';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 
 
-const API_KEY = 'AIzaSyCqiC9-7v7BbyXB7-y0s6wB56j_qRWFT-Y';
+const API_KEY = '';
 
 const SearchBar = ({ termHandler }) => {
   return (
